@@ -79,7 +79,7 @@ Finally, the processed dataset is exported in both **Excel** and **CSV** formats
 
 ---
 
-## Technologies Used
+## which Technologies I Used
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
