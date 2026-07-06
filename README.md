@@ -95,7 +95,7 @@ Finally, the processed dataset is exported in both **Excel** and **CSV** formats
 </p>
 
 
-## Output
+## The Output
 
 After successful execution, the script generates:
 
