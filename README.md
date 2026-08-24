@@ -103,4 +103,4 @@ After successful execution, the script generates:
 * **visualized_data.csv** – Processed CSV dataset
 * Line charts for both individual and combined datasets
 
-This project demonstrates an efficient and scalable approach to data preprocessing, visualization, and dataset consolidation, making it suitable for data analytics, reporting, and exploratory data analysis (EDA) workflows.
+This project demonstrates an efficient and scalable approach to data preprocessing, visualization, and dataset consolidation, making it suitable for data analytics, reporting, and exploratory data analysis (EDA) workflows. 
